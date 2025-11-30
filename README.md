@@ -2,6 +2,8 @@
 
 A beautiful and modern stopwatch application built with Next.js, React, TypeScript, and Tailwind CSS. Features a sleek gradient design with full stopwatch functionality including lap tracking.
 
+🌐 **Live Demo**: [https://stopwatch-eta-smoky-45.vercel.app/](https://stopwatch-eta-smoky-45.vercel.app/)
+
 ## Features
 
 - ⏱️ **Precise Timing**: Accurate stopwatch with millisecond precision (displayed as centiseconds)
